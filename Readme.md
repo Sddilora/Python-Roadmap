@@ -1,7 +1,7 @@
 # Python Roadmap
 
 ## Beginner Level
-- Python syntax
+- [Python syntax](Beginner/syntax.md)
 - Variables and data types
 - Conditional statements
 - Loops
